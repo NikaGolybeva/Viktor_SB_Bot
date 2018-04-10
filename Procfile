@@ -1,1 +1,1 @@
-web: python viktor.py
+worker: python viktor.py
